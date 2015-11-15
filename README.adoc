@@ -1,4 +1,6 @@
 = AsciidoctorJ: Java bindings for AsciidoctorJ
+
+image:https://badges.gitter.im/Join%20Chat.svg[link="https://gitter.im/IRus/asciidoctorj-with-nashorn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 Alex Soto <https://github.com/lordofthejars[@lordofthejars]>; Dan Allen <https://github.com/mojavelinux[@mojavelinux]>
 // Settings:
 :compat-mode!:
